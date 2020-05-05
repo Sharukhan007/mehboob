@@ -519,12 +519,7 @@ def pilih_super():
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Tiger.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 
-░██████╗██████╗░██╗░░██╗
-██╔════╝██╔══██╗██║░██╔╝
-╚█████╗░██████╔╝█████═╝░
-░╚═══██╗██╔══██╗██╔═██╗░
-██████╔╝██║░░██║██║░╚██╗
-╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝
+مخبوب
  
          7 days Bad e Chek Kaway 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
